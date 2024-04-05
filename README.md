@@ -1,4 +1,4 @@
-<img href="https://giphy.com/gifs/ZDlWWAJeGgq1RNpC45">
+
 
 <h1 align="center">Hi 👋, I'm Mariana Watermeyer</h1>
 <h3 align="center">Beginner Software Engineer focusing on full-stack web development with JavaScript and React.</h3>

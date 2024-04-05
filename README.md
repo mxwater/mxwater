@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxwater&label=Profile%20views&color=0e75b6&style=flat" alt="mxwater" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxwater" alt="mxwater" /></a> </p>
-
 - 🌱 I’m currently learning **the ropes through courses and projects, I'm excited to dive deeper into building dynamic web applications.**
 
 - 📫 How to reach me **marysiq@hotmail.com**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxwater&show_icons=true&locale=en&layout=compact" alt="mxwater" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxwater&show_icons=true&locale=en" alt="mxwater" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxwater&" alt="mxwater" /></p>

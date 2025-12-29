@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the ropes through courses and projects, I'm excited to dive deeper into building dynamic web applications.**
 
-- 📫 How to reach me **marysiq@hotmail.com**
+- 📫 How to reach me **marianawatermeyer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
